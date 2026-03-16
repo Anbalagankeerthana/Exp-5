@@ -4,6 +4,7 @@
 To draw UML Diagrams for the Student Enrollment System
 # SRS (Procedure):
 ◉ Use Case Diagram
+
 ◉ Class Diagram
 ◉ Activity Diagram
 ◉ Package Diagram
